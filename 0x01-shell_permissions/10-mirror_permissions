@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=file1.txt file2.txt
+chmod --reference=hello olleh
